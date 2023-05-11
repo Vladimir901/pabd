@@ -1,4 +1,4 @@
-# app.py
+# predict_app.py
 
 from flask import Flask, request
 
