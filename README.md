@@ -15,8 +15,9 @@
 **Результат:** созданный репозиторий с initial commit, README, merge request.   
 
 2. Структура ML проекта, шаблонизация cookiecutter ds. 
-Требования к коду: codestyle, linters, formatters, docs. 
-Настройка базового CI/CD, runners.
+Требования к коду: codestyle, linters, formatters, sphinx autodocs.  
+Настройка базового CI/CD, runners.  
+Типовое техническое задание на разработку системы предиктивной аналитики.  
 
 **Результат:**  predict.py с необученной моделью, gitlab-ci.yml с настроенным раннером.
 
