@@ -3,3 +3,8 @@ click
 Sphinx
 coverage
 flake8
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
