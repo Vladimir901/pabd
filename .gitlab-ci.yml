@@ -16,4 +16,5 @@ lint-test-job_2:
   stage: test
   script:
     - echo "Run linter test 2"
+    - pip install flake8
     - flake8 src/predict_app.py
