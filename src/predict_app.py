@@ -19,5 +19,6 @@ def home():
     result = model([f1, f2, f3])
     return str(result)
 
+
 if __name__ == "__main__":
     app.run()
