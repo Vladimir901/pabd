@@ -92,3 +92,6 @@ python src/predict_app.py
 Вызов API осуществляется через функцию ВЕБЗАПРОС(URL) (Эта функция доступна начиная с версий Exel 2013)  
 
 Kaggle dataset для базового обучения модели можно скачать [здесь.](https://storage.yandexcloud.net/pabd/kaggle.zip)  
+
+Инструкция по установке [docker](https://docs.docker.com/engine/install/ubuntu/) 
+Инструкция по установке [gitlab-runner](https://docs.gitlab.com/runner/install/linux-manually.html) 
