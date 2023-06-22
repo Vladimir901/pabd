@@ -1,0 +1,4 @@
+in_data: ..data/raw/kaggle/train.csv
+out_data: ..data/raw/kaggle/train
+train_out: ../data/processed/train.csv
+test_out: ../data/processed/test.csv

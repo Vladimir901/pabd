@@ -1,0 +1,6 @@
+in_data:
+  D:\Проекты\pabd\data\raw\cian\cian_parsing_result_rent_long.csv
+train_out:
+  D:\Проекты\pabd\data\processed\train.csv
+test_out:
+  D:\Проекты\pabd\data\processed\test.csv
